@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Task 1",
+        "description": "Description of Task 1",
+        "body": "Detailed body of Task 1",
+        "todoList": [
+            {
+                "title": "Step 1",
+                "isComplete": false
+            },
+            {
+                "title": "Step 2",
+                "isComplete": true
+            }
+        ],
+        "isPinned": true
+    },
+    {
+        "title": "Task 2",
+        "description": "Description of Task 2",
+        "body": "Detailed body of Task 2",
+        "todoList": [
+            {
+                "title": "Step 1",
+                "isComplete": false
+            }
+        ],
+        "isPinned": false
+    }
+]
